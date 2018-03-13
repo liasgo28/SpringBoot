@@ -1,0 +1,6 @@
+br\com\diego\exemplo\controllers\TesteController.class
+br\com\diego\exemplo\model\Pessoa.class
+br\com\diego\exemplo\Configuracao.class
+br\com\diego\exemplo\service\PessoaService.class
+br\com\diego\exemplo\controllers\ListaController.class
+br\com\diego\exemplo\repository\PessoaRepository.class
